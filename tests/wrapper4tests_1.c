@@ -321,7 +321,7 @@ int main(int argc, char **argv)
 	TEST_WRAPPER(test_condvar8);
 //	TEST_WRAPPER(test_condvar9);
 	TEST_WRAPPER(test_context1);
-	TEST_WRAPPER(test_context2);
+	//TEST_WRAPPER(test_context2);
 	TEST_WRAPPER(test_count1);
 	TEST_WRAPPER(test_create1);
 	TEST_WRAPPER(test_create2);
